@@ -56,8 +56,6 @@ console.log( suma );
 const vidurkis = (s1 + s2) / 2;( vidurkis );
 
 
-
-
 const vidurkiosaknis = Math.sqrt (vidurkis);
 console.log(vidurkiosaknis);
 
