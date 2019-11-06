@@ -76,9 +76,39 @@ const alter = numbers[0] - numbers[1] + numbers[2] - numbers[3] + numbers[4];
 console.log(alter);
 
 
+console.log( '.....................' );
+console.log( '.....................' );
+console.log( '.....................' );
+console.log( 'KINTAMŲJŲ PALYGINIMAS' );
 
 
+const m = 7;
 
- 
+if ( m > 0) {
+    console.log('7 yra daugiau uz 5');
+} else {
+    console.log('tas kitas variantas');   
+}
 
+if ( m > 0 ) {
+    console.log('skaicius teigiamas');   
+    } else {
+        if ( m < 0 ) {
+            console.log('skaicius neigiamas');        
+        } else {
+        console.log( 'as esu nulis' );      
+    }
+}
+
+//vartotinos: <, >, ===, >=, <=, !==
+//nevartotinos: ==, !=
+
+// switch (key) {
+//     case value:
+        
+//       break;
+
+//    default:
+//         break;
+// }
 
